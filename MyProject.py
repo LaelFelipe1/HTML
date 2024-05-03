@@ -15,7 +15,7 @@ azul = (0, 0, 255)
 # Definições de tela
 largura, altura = 600, 400
 tela = pygame.display.set_mode((largura, altura))
-nome_jogo = pygame.display.set_caption("My Project")
+nome_jogo = pygame.display.set_caption("Ping Pong - Lael")
 tela.fill(branco)
 
 #Criar traves
